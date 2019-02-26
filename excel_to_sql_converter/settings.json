@@ -1,6 +1,6 @@
 {
-    "excl_path": ".\\",
-    "excl_fname": "artq_db.xlsx",
+    "excel_path": ".\\",
+    "excel_file_name": "artq_db.xlsx",
     "db_path": ".\\",
-    "db_fname": "artq_db.sqlite"
+    "db_file_name": "artq_db.sqlite"
 }
